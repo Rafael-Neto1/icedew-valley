@@ -38,32 +38,26 @@ body {
 
 .pedra {
   background-color: #666666;
-  background-image: url('https://i.imgur.com/9zqHYhy.png'); /* Exemplo pedra */
 }
 
 .erva {
   background-color: #6bbf59;
-  background-image: url('https://i.imgur.com/ZZL0xjH.png'); /* Exemplo erva */
 }
 
 .arado {
   background-color: #8b5e3c;
-  background-image: url('https://i.imgur.com/7sCq6u0.png'); /* Terra arada */
 }
 
 .plantado {
   background-color: #5ba84a;
-  background-image: url('https://i.imgur.com/8YQnI5X.png'); /* Planta pequena */
 }
 
 .regado {
   background-color: #4a8e4a;
-  background-image: url('https://i.imgur.com/VBgD82n.png'); /* Planta regada */
 }
 
 .colheita {
   background-color: #3a7e3a;
-  background-image: url('https://i.imgur.com/pq6XtX6.png'); /* Planta madura */
 }
 
 /* Ícones do header */
